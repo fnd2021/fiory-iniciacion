@@ -7,12 +7,13 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="{i18n>title}">
+				<Page id="page" title="{i18n>SAP Fiori}">
 					<content >
                     <Text text="Hello Word" ></Text>
                     <Text ></Text>
                     <Text text="Sergio Fabricio Ruiz Jimenez" ></Text>
-                    </content>
+                    <Text text="Avance al 01/07/2021"></Text>
+                    <Text text="SAP Fiori"></Text>
 				</Page>
 			</pages>
 		</App>
